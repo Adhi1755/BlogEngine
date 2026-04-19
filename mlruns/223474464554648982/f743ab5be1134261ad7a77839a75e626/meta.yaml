@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adithyan/Downloads/data/mlruns/223474464554648982/f743ab5be1134261ad7a77839a75e626/artifacts
+end_time: 1776613605925
+entry_point_name: ''
+experiment_id: '223474464554648982'
+lifecycle_stage: active
+run_id: f743ab5be1134261ad7a77839a75e626
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776613603980
+status: 3
+tags: []
+user_id: adithyan

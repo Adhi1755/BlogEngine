@@ -1,0 +1,10 @@
+artifact_location: file:///Users/adithyan/Downloads/data/mlruns/223474464554648982/models/m-ba4807b0ca2d4339a1138b07bc9acdee/artifacts
+creation_timestamp: 1776613599518
+experiment_id: '223474464554648982'
+last_updated_timestamp: 1776613602291
+model_id: m-ba4807b0ca2d4339a1138b07bc9acdee
+model_type: null
+name: model
+source_run_id: 9b3b49b846f241e28e8910d9a3634b3f
+status: 2
+status_message: null

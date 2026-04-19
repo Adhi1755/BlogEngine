@@ -1,0 +1,8 @@
+fastapi>=0.111.0
+uvicorn>=0.29.0
+pydantic>=2.0.0
+joblib>=1.3.0
+# Pin to same major.minor that produced svm.pkl / tfidf.pkl
+# If models were re-trained with a different version, update this line.
+scikit-learn>=1.4.0
+nltk>=3.8.0
