@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adithyan/Downloads/data/mlruns/179489153826527704/71b314a61e2e419894e30136b7a359e8/artifacts
+end_time: 1776611183934
+entry_point_name: ''
+experiment_id: '179489153826527704'
+lifecycle_stage: active
+run_id: 71b314a61e2e419894e30136b7a359e8
+run_name: SGD
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776611181868
+status: 3
+tags: []
+user_id: adithyan

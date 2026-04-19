@@ -1,0 +1,8 @@
+artifact_location: file:///Users/adithyan/Downloads/data/mlruns/179489153826527704
+creation_time: 1776611146698
+experiment_id: '179489153826527704'
+last_update_time: 1776611146698
+lifecycle_stage: active
+name: Simple Logistic Regression
+trace_location: null
+workspace: default
