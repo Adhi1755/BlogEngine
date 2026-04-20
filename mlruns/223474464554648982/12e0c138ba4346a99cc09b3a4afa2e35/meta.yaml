@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adithyan/Downloads/data/mlruns/223474464554648982/12e0c138ba4346a99cc09b3a4afa2e35/artifacts
+end_time: 1776698863621
+entry_point_name: ''
+experiment_id: '223474464554648982'
+lifecycle_stage: active
+run_id: 12e0c138ba4346a99cc09b3a4afa2e35
+run_name: Naive_Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776698861118
+status: 3
+tags: []
+user_id: adithyan

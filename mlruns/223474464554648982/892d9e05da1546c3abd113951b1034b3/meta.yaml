@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adithyan/Downloads/data/mlruns/223474464554648982/892d9e05da1546c3abd113951b1034b3/artifacts
+end_time: 1776698869063
+entry_point_name: ''
+experiment_id: '223474464554648982'
+lifecycle_stage: active
+run_id: 892d9e05da1546c3abd113951b1034b3
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776698867186
+status: 3
+tags: []
+user_id: adithyan

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/adithyan/Downloads/data/mlruns/223474464554648982/b6a5f9881d4a43beb5a9b8aba5fe2425/artifacts
+end_time: 1776698870595
+entry_point_name: ''
+experiment_id: '223474464554648982'
+lifecycle_stage: active
+run_id: b6a5f9881d4a43beb5a9b8aba5fe2425
+run_name: BEST_MODEL
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776698869065
+status: 3
+tags: []
+user_id: adithyan
