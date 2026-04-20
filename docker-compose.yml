@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: runtime          # build only the final stage
+    image: blogengine-api:latest
+    container_name: blogengine_api
+    ports:
+      - "5001:5001"            # host:container
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:5001/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+
+  # ── Optional: Swagger UI at http://localhost:8080 ────────────────────────
+  # swagger-ui:
+  #   image: swaggerapi/swagger-ui
+  #   ports:
+  #     - "8080:8080"
+  #   environment:
+  #     SWAGGER_JSON_URL: http://localhost:5001/openapi.json
+  #   depends_on:
+  #     - api
